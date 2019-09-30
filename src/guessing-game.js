@@ -2,7 +2,7 @@ class GuessingGame {
     constructor() {
         this.max;
         this.arrOfAssumptions = [];
-        this.min = 0;
+        this.min = 1;
         this.rand = null;
     }
   
